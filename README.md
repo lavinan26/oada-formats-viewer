@@ -4,4 +4,10 @@ exchange between farmers, auditors, distributors, etc. "oada-formats" repository
 acts as an inventory of known agricultural data formats. This application will allow users to view data formats with 
 their definitions and vocabularies available in "oada-formats" repository.
 
+### How do I get set up? ###
 
+Clone this repo.
+
+Open the terminal and do an npm install.
+
+Start the application with the command npm start.
