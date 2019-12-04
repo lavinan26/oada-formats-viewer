@@ -6,8 +6,9 @@ their definitions and vocabularies available in "oada-formats" repository.
 
 ### How do I get set up? ###
 
-Clone this repo.
-
-Open the terminal and do an npm install.
-
-Start the application with the command npm start.
+```
+npm install
+```
+```
+npm start
+```
